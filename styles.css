@@ -1,9 +1,8 @@
 /* ============================================================
-   ARIEL'S DAPTO — design system
-   Brand-derived: royal navy + brushed gold from the kiosk,
-   porcelain from the marble counters, one red echo of the
-   feature wall. Type: Rozha One (display) / Ms Madi (the
-   logo's script voice) / Karla (body).
+   ATMOONS — design system
+   Royal navy + brushed gold, porcelain from the marble
+   counters, one red accent. Type: Rozha One (display) /
+   Ms Madi (the script voice) / Karla (body).
    ============================================================ */
 
 :root {
@@ -520,16 +519,6 @@ main > section { padding-block: var(--sect-pad); scroll-margin-top: 84px; }
   color: var(--ink-2);
 }
 
-.reviews-link {
-  margin-top: 2.6rem;
-  font-weight: 700;
-}
-.reviews-link a {
-  color: var(--royal);
-  text-decoration-thickness: 1.5px;
-  text-underline-offset: 3px;
-}
-
 /* ---------- story ---------- */
 
 .story {
@@ -645,14 +634,9 @@ address {
   font-size: .9rem;
   color: rgba(244, 234, 214, .6);
 }
-.visit a { color: var(--gold-2); }
+.visit a:not(.btn) { color: var(--gold-2); }
 
 .visit-contact { margin-top: .9rem; line-height: 1.9; }
-.visit-rewards {
-  margin-top: 1.4rem;
-  font-size: .95rem;
-  color: rgba(244, 234, 214, .7);
-}
 
 .visit-base {
   border-top: 1px solid rgba(198, 161, 78, .25);

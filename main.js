@@ -1,4 +1,4 @@
-/* Ariel's Dapto — progressive enhancement. Site works fully without JS. */
+/* Atmoons — progressive enhancement. Site works fully without JS. */
 document.documentElement.classList.add("js");
 
 /* --- mobile nav --- */
@@ -34,7 +34,7 @@ function syncHash() {
 window.addEventListener("hashchange", syncHash);
 if (cats.length) { showCat("coffee"); syncHash(); }
 
-/* --- open-now status (Bopple trading hours: Mon–Fri 8–16, Sat–Sun 8–15) --- */
+/* --- open-now status (trading hours: Mon–Fri 8–16, Sat–Sun 8–15) --- */
 const HOURS = { 0: [8, 15], 1: [8, 16], 2: [8, 16], 3: [8, 16], 4: [8, 16], 5: [8, 16], 6: [8, 15] };
 const el = document.getElementById("open-status");
 const dot = document.querySelector(".status-dot");

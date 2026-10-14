@@ -7,7 +7,6 @@
     "desc": "",
     "min": 5.0,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_854779_med_3504003215.webp",
     "in_stock": true,
     "pop": 3569
    },
@@ -16,7 +15,6 @@
     "desc": "",
     "min": 5.0,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_854794_med_669058993.webp",
     "in_stock": true,
     "pop": 2110
    },
@@ -25,7 +23,6 @@
     "desc": "",
     "min": 5.0,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_854784_med_919040820.webp",
     "in_stock": true,
     "pop": 1190
    },
@@ -34,7 +31,6 @@
     "desc": "",
     "min": 5.0,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_854786_med_1961275330.webp",
     "in_stock": true,
     "pop": 541
    },
@@ -43,7 +39,6 @@
     "desc": "",
     "min": 6.0,
     "max": 6.0,
-    "img": "https://cdn.bopple.me/images/products/product_854802_680469307.webp",
     "in_stock": true,
     "pop": 485
    },
@@ -52,7 +47,6 @@
     "desc": "",
     "min": 2.0,
     "max": 2.0,
-    "img": "https://cdn.bopple.me/images/products/product_854777_med_534563304.webp",
     "in_stock": true,
     "pop": 469
    },
@@ -61,7 +55,6 @@
     "desc": "",
     "min": 5.0,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_854780_med_2790685654.webp",
     "in_stock": true,
     "pop": 320
    },
@@ -70,7 +63,6 @@
     "desc": "",
     "min": 5.5,
     "max": 7.0,
-    "img": "https://cdn.bopple.me/images/products/product_854799_med_2639552412.webp",
     "in_stock": true,
     "pop": 289
    },
@@ -79,7 +71,6 @@
     "desc": "",
     "min": 5.0,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_854795_med_3163043826.webp",
     "in_stock": true,
     "pop": 235
    },
@@ -88,7 +79,6 @@
     "desc": "",
     "min": 4.2,
     "max": 4.2,
-    "img": "https://cdn.bopple.me/images/products/product_854800_med_401461396.webp",
     "in_stock": true,
     "pop": 150
    },
@@ -97,7 +87,6 @@
     "desc": "",
     "min": 5.5,
     "max": 7.0,
-    "img": "https://cdn.bopple.me/images/products/product_854782_med_2621393548.webp",
     "in_stock": true,
     "pop": 147
    },
@@ -106,7 +95,6 @@
     "desc": "",
     "min": 4.0,
     "max": 4.0,
-    "img": "https://cdn.bopple.me/images/products/product_854783_med_1763652042.webp",
     "in_stock": true,
     "pop": 36
    },
@@ -115,7 +103,6 @@
     "desc": "",
     "min": 5.5,
     "max": 5.5,
-    "img": "https://cdn.bopple.me/images/products/product_854797_med_2242632848.webp",
     "in_stock": true,
     "pop": 30
    },
@@ -124,7 +111,6 @@
     "desc": "",
     "min": 5.5,
     "max": 7.0,
-    "img": null,
     "in_stock": true,
     "pop": 22
    },
@@ -133,7 +119,6 @@
     "desc": "",
     "min": 4.2,
     "max": 4.2,
-    "img": "https://cdn.bopple.me/images/products/product_854796_med_168793293.webp",
     "in_stock": true,
     "pop": 11
    },
@@ -142,7 +127,6 @@
     "desc": "",
     "min": 6.0,
     "max": 6.0,
-    "img": "https://cdn.bopple.me/images/products/product_854776_med_750074120.webp",
     "in_stock": true,
     "pop": 7
    },
@@ -151,7 +135,6 @@
     "desc": "",
     "min": 5.5,
     "max": 7.0,
-    "img": null,
     "in_stock": true,
     "pop": 6
    },
@@ -160,7 +143,6 @@
     "desc": "",
     "min": 4.5,
     "max": 4.5,
-    "img": "https://cdn.bopple.me/images/products/product_854801_med_4229758122.webp",
     "in_stock": true,
     "pop": 1
    }
@@ -174,7 +156,6 @@
     "desc": "",
     "min": 8.0,
     "max": 14.0,
-    "img": "https://cdn.bopple.me/images/products/product_854827_med_3521848075.webp",
     "in_stock": true,
     "pop": 374
    },
@@ -183,7 +164,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": "https://cdn.bopple.me/images/products/product_854752_med_3155075228.webp",
     "in_stock": true,
     "pop": 222
    },
@@ -192,7 +172,6 @@
     "desc": "",
     "min": 8.5,
     "max": 10.5,
-    "img": "https://cdn.bopple.me/images/products/product_854769_2975266442.webp",
     "in_stock": true,
     "pop": 129
    },
@@ -201,7 +180,6 @@
     "desc": "",
     "min": 8.9,
     "max": 10.9,
-    "img": "https://cdn.bopple.me/images/products/product_854771_4200355409.webp",
     "in_stock": true,
     "pop": 111
    },
@@ -210,7 +188,6 @@
     "desc": "",
     "min": 6.5,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_854765_1520940892.webp",
     "in_stock": true,
     "pop": 89
    },
@@ -219,7 +196,6 @@
     "desc": "",
     "min": 7.9,
     "max": 7.9,
-    "img": "https://cdn.bopple.me/images/products/product_854741_med_1821042772.webp",
     "in_stock": true,
     "pop": 79
    },
@@ -228,7 +204,6 @@
     "desc": "",
     "min": 8.0,
     "max": 14.0,
-    "img": "https://cdn.bopple.me/images/products/product_854829_med_4152290673.webp",
     "in_stock": true,
     "pop": 79
    },
@@ -237,7 +212,6 @@
     "desc": "",
     "min": 8.0,
     "max": 8.0,
-    "img": "https://cdn.bopple.me/images/products/product_854761_4271007837.webp",
     "in_stock": true,
     "pop": 59
    },
@@ -246,7 +220,6 @@
     "desc": "",
     "min": 6.0,
     "max": 6.0,
-    "img": "https://cdn.bopple.me/images/products/product_854747_med_1098362214.webp",
     "in_stock": true,
     "pop": 58
    },
@@ -255,7 +228,6 @@
     "desc": "",
     "min": 6.0,
     "max": 6.0,
-    "img": "https://cdn.bopple.me/images/products/product_854760_med_1166797451.webp",
     "in_stock": true,
     "pop": 53
    },
@@ -264,7 +236,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": "https://cdn.bopple.me/images/products/product_854751_3134488448.webp",
     "in_stock": false,
     "pop": 49
    },
@@ -273,7 +244,6 @@
     "desc": "",
     "min": 7.5,
     "max": 7.5,
-    "img": "https://cdn.bopple.me/images/products/product_854758_1728862930.webp",
     "in_stock": true,
     "pop": 40
    },
@@ -282,7 +252,6 @@
     "desc": "",
     "min": 5.0,
     "max": 5.0,
-    "img": "https://cdn.bopple.me/images/products/product_854764_med_3826122749.webp",
     "in_stock": true,
     "pop": 35
    },
@@ -291,7 +260,6 @@
     "desc": "",
     "min": 8.5,
     "max": 10.5,
-    "img": "https://cdn.bopple.me/images/products/product_854772_1307506845.webp",
     "in_stock": true,
     "pop": 30
    },
@@ -300,7 +268,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": "https://cdn.bopple.me/images/products/product_1225136_med_2560370270.webp",
     "in_stock": true,
     "pop": 26
    },
@@ -309,7 +276,6 @@
     "desc": "",
     "min": 6.5,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_854748_668840842.webp",
     "in_stock": true,
     "pop": 23
    },
@@ -318,7 +284,6 @@
     "desc": "",
     "min": 6.5,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_854749_3623180680.webp",
     "in_stock": true,
     "pop": 23
    },
@@ -327,7 +292,6 @@
     "desc": "",
     "min": 7.9,
     "max": 7.9,
-    "img": "https://cdn.bopple.me/images/products/product_854768_1345744231.webp",
     "in_stock": true,
     "pop": 16
    },
@@ -336,7 +300,6 @@
     "desc": "",
     "min": 8.5,
     "max": 8.5,
-    "img": "https://cdn.bopple.me/images/products/product_854763_1011610933.webp",
     "in_stock": false,
     "pop": 15
    },
@@ -345,7 +308,6 @@
     "desc": "",
     "min": 8.0,
     "max": 14.0,
-    "img": "https://cdn.bopple.me/images/products/product_1001169_med_1598241818.webp",
     "in_stock": false,
     "pop": 10
    },
@@ -354,7 +316,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": "https://cdn.bopple.me/images/products/product_1429543_med_3138025796.webp",
     "in_stock": true,
     "pop": 9
    },
@@ -363,7 +324,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": "https://cdn.bopple.me/images/products/product_1340312_med_3425753715.webp",
     "in_stock": false,
     "pop": 8
    },
@@ -372,7 +332,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": "https://cdn.bopple.me/images/products/product_854774_med_1127289668.webp",
     "in_stock": false,
     "pop": 7
    },
@@ -381,7 +340,6 @@
     "desc": "",
     "min": 7.0,
     "max": 7.0,
-    "img": null,
     "in_stock": true,
     "pop": 6
    },
@@ -390,7 +348,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": null,
     "in_stock": false,
     "pop": 5
    },
@@ -399,7 +356,6 @@
     "desc": "",
     "min": 7.5,
     "max": 7.5,
-    "img": null,
     "in_stock": true,
     "pop": 4
    },
@@ -408,7 +364,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": null,
     "in_stock": false,
     "pop": 2
    },
@@ -417,7 +372,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": null,
     "in_stock": true,
     "pop": 2
    },
@@ -426,7 +380,6 @@
     "desc": "",
     "min": 8.5,
     "max": 8.5,
-    "img": null,
     "in_stock": false,
     "pop": 1
    },
@@ -435,7 +388,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -444,7 +396,6 @@
     "desc": "",
     "min": 6.9,
     "max": 6.9,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -453,7 +404,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -462,7 +412,6 @@
     "desc": "",
     "min": 7.5,
     "max": 7.5,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -471,7 +420,6 @@
     "desc": "",
     "min": 6.5,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_900154_med_783884137.webp",
     "in_stock": false,
     "pop": 0
    },
@@ -480,7 +428,6 @@
     "desc": "",
     "min": 6.5,
     "max": 6.5,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -489,7 +436,6 @@
     "desc": "",
     "min": 6.9,
     "max": 6.9,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -498,7 +444,6 @@
     "desc": "",
     "min": 5.9,
     "max": 5.9,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -507,7 +452,6 @@
     "desc": "",
     "min": 7.9,
     "max": 7.9,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -516,7 +460,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": null,
     "in_stock": true,
     "pop": 0
    },
@@ -525,7 +468,6 @@
     "desc": "",
     "min": 9.9,
     "max": 9.9,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -534,7 +476,6 @@
     "desc": "",
     "min": 7.9,
     "max": 7.9,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -543,7 +484,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": null,
     "in_stock": true,
     "pop": 0
    },
@@ -552,7 +492,6 @@
     "desc": "",
     "min": 8.9,
     "max": 8.9,
-    "img": null,
     "in_stock": false,
     "pop": 0
    },
@@ -561,7 +500,6 @@
     "desc": "",
     "min": 6.5,
     "max": 6.5,
-    "img": null,
     "in_stock": false,
     "pop": 0
    }
@@ -575,7 +513,6 @@
     "desc": "",
     "min": 11.9,
     "max": 11.9,
-    "img": "https://cdn.bopple.me/images/products/product_854825_med_3993520795.webp",
     "in_stock": true,
     "pop": 136
    },
@@ -584,7 +521,6 @@
     "desc": "",
     "min": 14.9,
     "max": 14.9,
-    "img": "https://cdn.bopple.me/images/products/product_854823_med_2333248456.webp",
     "in_stock": true,
     "pop": 108
    },
@@ -593,7 +529,6 @@
     "desc": "",
     "min": 12.9,
     "max": 12.9,
-    "img": "https://cdn.bopple.me/images/products/product_854826_med_2165687723.webp",
     "in_stock": true,
     "pop": 77
    },
@@ -602,7 +537,6 @@
     "desc": "",
     "min": 6.0,
     "max": 8.0,
-    "img": null,
     "in_stock": true,
     "pop": 24
    }
@@ -616,7 +550,6 @@
     "desc": "Ice with milk and coffee shots",
     "min": 6.0,
     "max": 7.0,
-    "img": "https://cdn.bopple.me/images/products/product_854790_med_3817725040.webp",
     "in_stock": true,
     "pop": 744
    },
@@ -625,7 +558,6 @@
     "desc": "",
     "min": 8.0,
     "max": 10.0,
-    "img": "https://cdn.bopple.me/images/products/product_854798_med_1861766672.webp",
     "in_stock": true,
     "pop": 334
    },
@@ -634,7 +566,6 @@
     "desc": "Chocolate with milk and ice cream topped up with whipped cream",
     "min": 8.0,
     "max": 9.0,
-    "img": "https://cdn.bopple.me/images/products/product_854788_med_2968364108.webp",
     "in_stock": true,
     "pop": 179
    },
@@ -643,7 +574,6 @@
     "desc": "",
     "min": 8.5,
     "max": 10.5,
-    "img": null,
     "in_stock": true,
     "pop": 156
    },
@@ -652,7 +582,6 @@
     "desc": "",
     "min": 8.5,
     "max": 10.5,
-    "img": null,
     "in_stock": true,
     "pop": 155
    },
@@ -661,7 +590,6 @@
     "desc": "Coffee with milk and ice cream topped up with whipped cream",
     "min": 8.0,
     "max": 9.0,
-    "img": "https://cdn.bopple.me/images/products/product_1191583_med_2839032931.webp",
     "in_stock": true,
     "pop": 143
    },
@@ -670,7 +598,6 @@
     "desc": "Coffee and Chocolate with milk and ice cream topped up with whipped cream",
     "min": 8.5,
     "max": 9.5,
-    "img": "https://cdn.bopple.me/images/products/product_854792_med_575936062.webp",
     "in_stock": true,
     "pop": 101
    },
@@ -679,7 +606,6 @@
     "desc": "Chai with milk and ice cream topped up with whipped cream",
     "min": 8.0,
     "max": 9.0,
-    "img": "https://cdn.bopple.me/images/products/product_854787_med_3998472636.webp",
     "in_stock": true,
     "pop": 71
    },
@@ -688,7 +614,6 @@
     "desc": "Matcha with milk and ice cream topped up with whipped cream",
     "min": 9.0,
     "max": 10.0,
-    "img": "https://cdn.bopple.me/images/products/product_1053090_med_2604961972.webp",
     "in_stock": true,
     "pop": 54
    },
@@ -697,7 +622,6 @@
     "desc": "Coffee with cold water",
     "min": 5.5,
     "max": 6.5,
-    "img": "https://cdn.bopple.me/images/products/product_854791_med_508084321.webp",
     "in_stock": true,
     "pop": 36
    },
@@ -706,7 +630,6 @@
     "desc": "Coffee and Chai with milk and ice cream topped up with whipped cream",
     "min": 9.0,
     "max": 10.0,
-    "img": "https://cdn.bopple.me/images/products/product_1047024_med_394722793.webp",
     "in_stock": true,
     "pop": 34
    }
@@ -720,7 +643,6 @@
     "desc": "Mango, Passionfruit, Pineapple, Banana coconut water",
     "min": 12.0,
     "max": 12.0,
-    "img": "https://cdn.bopple.me/images/products/product_854877_med_3788521534.webp",
     "in_stock": true,
     "pop": 164
    },
@@ -729,7 +651,6 @@
     "desc": "Acai, blueberries, strawberries, raspberries, banana & coconut water",
     "min": 12.0,
     "max": 12.0,
-    "img": "https://cdn.bopple.me/images/products/product_854874_med_102696137.webp",
     "in_stock": true,
     "pop": 90
    },
@@ -738,7 +659,6 @@
     "desc": "Kiwi, Kale, Mango, Pineapple & coconut water",
     "min": 12.0,
     "max": 12.0,
-    "img": "https://cdn.bopple.me/images/products/product_854876_med_3088611283.webp",
     "in_stock": true,
     "pop": 53
    },
@@ -747,7 +667,6 @@
     "desc": "Banana, Oats, Coconut, Dates, Pea Protein & Oat Milk, Cocnut water",
     "min": 12.0,
     "max": 12.0,
-    "img": "https://cdn.bopple.me/images/products/product_854879_med_2652963490.webp",
     "in_stock": true,
     "pop": 20
    },
@@ -756,7 +675,6 @@
     "desc": "Strawberry, Banana, Dragonfruit, Dates & Coconut Water",
     "min": 12.0,
     "max": 12.0,
-    "img": "https://cdn.bopple.me/images/products/product_1194920_med_3453093082.webp",
     "in_stock": true,
     "pop": 20
    }
@@ -770,7 +688,6 @@
     "desc": "",
     "min": 9.9,
     "max": 9.9,
-    "img": "https://cdn.bopple.me/images/products/product_854821_med_1501372972.webp",
     "in_stock": true,
     "pop": 383
    },
@@ -779,7 +696,6 @@
     "desc": "",
     "min": 9.9,
     "max": 9.9,
-    "img": "https://cdn.bopple.me/images/products/product_854820_med_3776830626.webp",
     "in_stock": true,
     "pop": 81
    }
@@ -793,7 +709,6 @@
     "desc": "",
     "min": 5.5,
     "max": 5.5,
-    "img": "https://cdn.bopple.me/images/products/product_854804_med_4182995320.webp",
     "in_stock": true,
     "pop": 292
    },
@@ -802,7 +717,6 @@
     "desc": "",
     "min": 5.5,
     "max": 5.5,
-    "img": "https://cdn.bopple.me/images/products/product_854803_med_402369828.webp",
     "in_stock": true,
     "pop": 286
    },
@@ -811,7 +725,6 @@
     "desc": "",
     "min": 4.5,
     "max": 4.5,
-    "img": "https://cdn.bopple.me/images/products/product_854807_med_281941077.webp",
     "in_stock": true,
     "pop": 153
    },
@@ -820,7 +733,6 @@
     "desc": "",
     "min": 3.5,
     "max": 3.5,
-    "img": "https://cdn.bopple.me/images/products/product_854819_664635286.webp",
     "in_stock": true,
     "pop": 127
    },
@@ -829,7 +741,6 @@
     "desc": "",
     "min": 4.5,
     "max": 4.5,
-    "img": "https://cdn.bopple.me/images/products/product_854810_med_1444700276.webp",
     "in_stock": true,
     "pop": 87
    },
@@ -838,7 +749,6 @@
     "desc": "",
     "min": 5.9,
     "max": 5.9,
-    "img": "https://cdn.bopple.me/images/products/product_854815_med_1011417709.webp",
     "in_stock": false,
     "pop": 52
    },
@@ -847,7 +757,6 @@
     "desc": "",
     "min": 5.9,
     "max": 5.9,
-    "img": "https://cdn.bopple.me/images/products/product_854816_med_260212396.webp",
     "in_stock": false,
     "pop": 52
    },
@@ -856,7 +765,6 @@
     "desc": "",
     "min": 5.9,
     "max": 5.9,
-    "img": "https://cdn.bopple.me/images/products/product_854811_343064335.webp",
     "in_stock": false,
     "pop": 45
    },
@@ -865,7 +773,6 @@
     "desc": "",
     "min": 5.9,
     "max": 5.9,
-    "img": "https://cdn.bopple.me/images/products/product_854814_979904400.webp",
     "in_stock": false,
     "pop": 35
    },
@@ -874,7 +781,6 @@
     "desc": "",
     "min": 5.9,
     "max": 5.9,
-    "img": "https://cdn.bopple.me/images/products/product_854813_med_292944831.webp",
     "in_stock": false,
     "pop": 33
    },
@@ -883,7 +789,6 @@
     "desc": "",
     "min": 5.5,
     "max": 5.5,
-    "img": "https://cdn.bopple.me/images/products/product_1059454_med_4058874694.webp",
     "in_stock": false,
     "pop": 11
    },
@@ -892,7 +797,6 @@
     "desc": "",
     "min": 5.9,
     "max": 5.9,
-    "img": "https://cdn.bopple.me/images/products/product_854812_med_578000101.webp",
     "in_stock": true,
     "pop": 3
    }
@@ -906,7 +810,6 @@
     "desc": "(SMALL ) Serves 4\u20138,\r\nIncludes: 4 pancakes, 4 waffles, Nutella, maple syrup, berry compote, fresh strawberries, blueberries, chocolate pieces, and icing sugar.\r\n\r\n(LARGE)  Serves 8\u201316,\r\nIncludes: 8 pancakes, 8 waffles, Nutella, maple syrup, berry compote, fresh strawberries, blueberries, chocolate pieces, and icing sugar.",
     "min": 38.0,
     "max": 69.0,
-    "img": "https://cdn.bopple.me/images/products/product_1441223_med_508535656.webp",
     "in_stock": true,
     "pop": 4
    },
@@ -915,7 +818,6 @@
     "desc": "(SMALL ) Serves 3\u20136,\r\nIncludes: 6 pancakes, Nutella, maple syrup, berry compote, fresh strawberries, blueberries, and icing sugar.\r\n\r\n(LARGE)  Serves 6\u201312,\r\nIncludes: 12 pancakes, Nutella, maple syrup, berry compote, fresh strawberries, blueberries, and icing sugar.",
     "min": 35.0,
     "max": 68.0,
-    "img": "https://cdn.bopple.me/images/products/product_1441224_med_887190186.webp",
     "in_stock": true,
     "pop": 3
    },
@@ -924,7 +826,6 @@
     "desc": "A beautifully curated selection of our freshly baked pastries, perfect for sharing. Golden, buttery, and made fresh, this platter is ideal for meetings, celebrations, brunches, and special events.\r\n\r\nIncludes:\r\n\u2022 Assorted croissants\r\n\u2022 Fruit danishes\r\n\u2022 Sweet scrolls\r\n\u2022 Filled pastries\r\n\u2022 Fresh strawberries for garnish\r\n\r\nServes 10\u201315 people.\r\nPresented in a large catering box for easy serving and impressive presentation.",
     "min": 115.0,
     "max": 115.0,
-    "img": "https://cdn.bopple.me/images/products/product_1450643_med_3553322440.webp",
     "in_stock": true,
     "pop": 3
    },
@@ -933,7 +834,6 @@
     "desc": "Freshly baked and perfectly fluffy \u2014 our six classic scones come served with rich cream and sweet jam for the ultimate caf\u00e9 treat. Perfect for morning teas, meetings, or a little afternoon indulgence\r\n\r\nServes 5-6 people",
     "min": 45.0,
     "max": 75.0,
-    "img": "https://cdn.bopple.me/images/products/product_1440694_med_4047780496.webp",
     "in_stock": false,
     "pop": 2
    },
@@ -942,7 +842,6 @@
     "desc": "Fresh, flavorful, and made to share \u2014 our Mixed Wrap Platter serves 12\u201316 people and is perfect for meetings, picnics, or casual gatherings. Choose from a delicious variety of wraps, including:\r\n\r\n(Caesar Wrap) classic and creamy with crisp lettuce and tender chicken\r\n\r\n(Halloumi & Mushroom Wrap) grilled halloumi with saut\u00e9ed mushrooms for a tasty vegetarian option\r\n\r\n(Southern Fried Chicken Wrap) crunchy, golden chicken with a hint of spice\r\nBeautifully presented and easy to serve, it\u2019s a fresh",
     "min": 150.0,
     "max": 150.0,
-    "img": "https://cdn.bopple.me/images/products/product_1448151_med_3487444120.webp",
     "in_stock": true,
     "pop": 2
    },
@@ -951,7 +850,6 @@
     "desc": "(SMALL ) Serves 6\u201310,\r\nIncludes: 3 pancakes, 4 waffles, 2 scones, 2 croissants, Nutella, maple syrup, berry compote, jam, cream, fresh strawberries, blueberries, chocolate pieces, and icing sugar.\r\n\r\n(LARGE) Serves 10\u201318,\r\nIncludes: 6 pancakes, 8 waffles, 3 scones, 2 croissants, Nutella, maple syrup, berry compote, jam, cream, fresh strawberries, blueberries, chocolate pieces, and icing sugar.",
     "min": 69.0,
     "max": 99.0,
-    "img": "https://cdn.bopple.me/images/products/product_1441222_med_543181866.webp",
     "in_stock": false,
     "pop": 1
    },
@@ -960,7 +858,6 @@
     "desc": "Six jumbo muffins baked fresh and bursting with flavour. Choose from mixed berry, chocolate, or a half-and-half mix of both. Perfect for meetings, brunches, or a sweet pick-me-up to share",
     "min": 35.0,
     "max": 35.0,
-    "img": "https://cdn.bopple.me/images/products/product_1441061_med_1954659383.webp",
     "in_stock": false,
     "pop": 1
    },
@@ -969,7 +866,6 @@
     "desc": "Freshly baked and perfectly fluffy, our 12 classic scones come served with rich cream and sweet jam for the ultimate caf\u00e9 treat. Perfect for morning teas, meetings, or a little afternoon indulgence\r\n\r\nServes 10-12 people",
     "min": 55.0,
     "max": 55.0,
-    "img": "https://cdn.bopple.me/images/products/product_1447688_med_1938166303.webp",
     "in_stock": false,
     "pop": 1
    },
@@ -978,7 +874,6 @@
     "desc": "serves 4\u20136 people. It includes:  Creamy brie cheese\r\n\r\nSavoury salami slices\r\n\r\nClassic hummus dip\r\n\r\nFresh seasonal fruits\r\n\r\nCrisp carrots and cucumber sticks\r\n\r\nCrunchy crackers\r\n\r\nA drizzle of honey, toasted almonds, and a touch of dark chocolate for a sweet finish\r\nBeautifully packaged and ready to share \u2014 just open, serve, and enjoy!   Perfect for families, friends, or office meetings, our Medium Grazing Box is ideal. offers a beautiful mix of sweet and savoury favourites.",
     "min": 80.0,
     "max": 80.0,
-    "img": "https://cdn.bopple.me/images/products/product_1440692_med_3028521407.webp",
     "in_stock": false,
     "pop": 1
    },
@@ -987,7 +882,6 @@
     "desc": "(SMALL ) Serves 4\u20138,\r\nIncludes: 8 waffles, Nutella, maple syrup, berry compote, fresh strawberries, blueberries, and icing sugar.\r\n\r\n(LARGE) Serves 6\u201312,\r\nIncludes: 12 waffles, Nutella, maple syrup, berry compote, fresh strawberries, blueberries, and icing sugar.",
     "min": 38.0,
     "max": 65.0,
-    "img": "https://cdn.bopple.me/images/products/product_1441225_med_2883953655.webp",
     "in_stock": true,
     "pop": 0
    },
@@ -996,7 +890,6 @@
     "desc": "serves up the perfect balance of comfort and freshness. Enjoy 10 slices of our house-baked banana bread, each cut in half and topped with a colourful assortment of seasonal fresh fruit. Feeds up to 10-15 people, ideal for breakfast meetings, morning teas, or a light afternoon treat.",
     "min": 90.0,
     "max": 90.0,
-    "img": "https://cdn.bopple.me/images/products/product_1445827_med_3722105517.webp",
     "in_stock": true,
     "pop": 0
    },
@@ -1005,7 +898,6 @@
     "desc": "12 mini muffins baked fresh and bursting with flavour. Choose from mixed berry, chocolate, or a half-and-half mix of both. Perfect for meetings, brunches, or a sweet pick-me-up to share",
     "min": 45.0,
     "max": 45.0,
-    "img": "https://cdn.bopple.me/images/products/product_1447687_med_3143870886.webp",
     "in_stock": false,
     "pop": 0
    },
@@ -1014,7 +906,6 @@
     "desc": "serves: 2\u20133 people. It includes: Creamy brie cheese\r\n\r\nSavoury salami slices\r\n\r\nClassic hummus dip\r\n\r\nFresh seasonal fruits\r\n\r\nCrisp carrots and cucumber sticks\r\n\r\nCrunchy crackers\r\nThoughtfully presented and ready to enjoy, just open and share!\r\nPerfect for couples, picnics, or small get-togethers, our Small Grazing Box is beautifully packed with:",
     "min": 55.0,
     "max": 55.0,
-    "img": "https://cdn.bopple.me/images/products/product_1440693_med_3292608512.webp",
     "in_stock": false,
     "pop": 0
    },
@@ -1023,7 +914,6 @@
     "desc": "serves: 8\u201312 people. It includes:\r\n\r\nTwo artisan cheeses \u2014 brie and cheddar\r\n\r\nPepperoni and smoked ham\r\n\r\nTwo dips \u2014 classic hummus and beetroot dip\r\n\r\nFresh seasonal fruits\r\n\r\nCarrot and cucumber sticks\r\n\r\nFreshly sliced bread and crunchy crackers\r\n\r\nA touch of sweetness and texture with honey, olives, almonds, and dark chocolate\r\nBeautifully presented and ready to impress any crowd. The ultimate party platter! Our Large Grazing Box.  makes the perfect centrepiece for celebrations or catering",
     "min": 160.0,
     "max": 160.0,
-    "img": "https://cdn.bopple.me/images/products/product_1441060_med_3373550924.webp",
     "in_stock": false,
     "pop": 0
    },
@@ -1032,7 +922,6 @@
     "desc": "Box of 18 flaky, buttery, freshly baked Mini Ham & Cheese Croissants \u2014 the ultimate crowd-pleaser. Each croissant is filled with savoury ham and melted cheese, perfect for breakfast meetings, brunches, or special events. Serves 12\u201316 people and comes beautifully presented for easy sharing.",
     "min": 85.0,
     "max": 85.0,
-    "img": "https://cdn.bopple.me/images/products/product_1448153_med_2231034128.webp",
     "in_stock": true,
     "pop": 0
    },
@@ -1041,7 +930,6 @@
     "desc": "",
     "min": 95.0,
     "max": 95.0,
-    "img": "https://cdn.bopple.me/images/products/product_1448154_med_2451490864.webp",
     "in_stock": false,
     "pop": 0
    },
@@ -1050,7 +938,6 @@
     "desc": "",
     "min": 95.0,
     "max": 95.0,
-    "img": "https://cdn.bopple.me/images/products/product_1448155_med_1040712665.webp",
     "in_stock": false,
     "pop": 0
    },
@@ -1059,7 +946,6 @@
     "desc": "12 pieces",
     "min": 95.0,
     "max": 95.0,
-    "img": "https://cdn.bopple.me/images/products/product_1448156_med_2107265498.webp",
     "in_stock": false,
     "pop": 0
    }

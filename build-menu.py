@@ -2,9 +2,8 @@
 """Regenerate the menu section of index.html from assets/data/menu.json.
 
 Usage:  python3 build-menu.py
-Fetches nothing — works from the local JSON snapshot (refresh that snapshot
-with the Bopple API endpoints documented in research/menu.md). Injects
-between the <!-- MENU:START --> / <!-- MENU:END --> markers in index.html.
+Fetches nothing — works from the local JSON snapshot. Injects between the
+<!-- MENU:START --> / <!-- MENU:END --> markers in index.html.
 """
 import json, re, html, pathlib
 
@@ -13,14 +12,14 @@ menu = json.load(open(ROOT / "assets/data/menu.json"))
 
 # display grouping: JSON category -> (chip slug, display title, blurb)
 GROUPS = {
-    "Coffee & Tea": ("coffee", "Coffee & tea", "Campos beans, poured on the La Marzocco — every size from piccolo to a proper mug."),
+    "Coffee & Tea": ("coffee", "Coffee & tea", "House-roast beans, ground to order — every size from piccolo to a proper mug."),
     "Cake & Slices": ("cabinet", "The cabinet", "Baked fresh, stacked high, and it moves fast — croissants, slices, pies and rolls."),
     "Ice Drinks": ("iced", "Iced & shakes", "Espresso over ice, thick shakes, and the iced chai the regulars order by name."),
     "Smoothies": ("fresh", "Smoothies & juices", "Blended to order with coconut water, fruit and oats."),
     "Fresh Juices": ("fresh", None, None),
     "Cold Drinks": ("fresh", None, None),
     "Kids Corner": ("kids", "Kids corner", "Little appetites, sorted. Babycinos are two dollars."),
-    "Catering": ("catering", "Catering", "Boxes and platters for meetings, birthdays and morning teas — order ahead on Bopple."),
+    "Catering": ("catering", "Catering", "Boxes and platters for meetings, birthdays and morning teas — order a day ahead."),
 }
 ORDER = ["coffee", "cabinet", "iced", "fresh", "kids", "catering"]
 
@@ -47,7 +46,7 @@ for slug in ORDER:
     rows = []
     for it in g["items"]:
         name = html.escape(it["name"])
-        name = name[0].upper() + name[1:]  # Bopple data has a few lowercase names
+        name = name[0].upper() + name[1:]  # data has a few lowercase names
         desc = f'<span class="mi-desc">{html.escape(it["desc"])}</span>' if it["desc"] else ""
         rows.append(
             f'        <li class="mi">\n'
